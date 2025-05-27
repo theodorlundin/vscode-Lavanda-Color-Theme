@@ -2,10 +2,11 @@
   "name": "lavanda-color-theme",
   "displayName": "Lavanda Color Theme",
   "description": "A modern color theme for VSCode with influences of blue, purple and pink.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.100.0"
   },
+  "icon": "/images/lavanda.png",
   "publisher": "TheodorLundin",
   "categories": [
     "Themes"
