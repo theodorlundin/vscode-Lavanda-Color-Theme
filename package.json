@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.100.0"
   },
-  "icon": "/images/lavanda.png",
+  "icon": "images/lavanda.png",
   "publisher": "TheodorLundin",
   "categories": [
     "Themes"
