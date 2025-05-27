@@ -4,6 +4,6 @@ Lavanda is a modern color theme for VSCode with influences of blue, purple and p
 
 # Screenshot
 
-![Screenshot 1](https://github.com/theodorlundin/vscode-Lavanda-Color-Theme/images/Lavanda-color-theme.png)
+![Screenshot 1](https://raw.githubusercontent.com/theodorlundin/vscode-Lavanda-Color-Theme/refs/heads/master/images/Lavanda-color-theme.png)
 
 **Happy coding!**
